@@ -1,0 +1,7 @@
+Hi aschmitz,
+
+Thank you for intergating Aranet4 into Home Assistant.
+We would like to thank you for this contribution and send a small gift.
+As we do not have your email please write to support@aranet.com (or ernests.dreimanis@saftehnika.com) so we can arrange practicalities.
+
+Please delete this file afterwards.
